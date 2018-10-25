@@ -1,6 +1,6 @@
 # StatusBoard
 
-<p align="center"><img width="60%" src="img/MagicMirror_SS.jpg"></p>
+<p align="center"><img width="60%" src="img/MagicMirror_SS.png"></p>
 
 Howdy everyone,
 
