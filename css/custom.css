@@ -1,0 +1,51 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+
+ body {
+ 	
+ }
+
+.region.top.right {
+max-width: 40%;
+max-height: 65%;
+}
+
+.clock .date {
+color: white;
+}
+
+.clock .clockSecond {
+color: white;
+}
+
+.MMM-MyWeather {
+color: white;
+}
+
+.MMM-MyWeather table td {
+font-size: 20px;
+}
+
+.MMM-MyScoreboard {
+color: white;
+}
+
+.MMM-uber {
+color: white;
+}
+
+.MMM-lyft {
+color: white;
+}
+
+.MMM-Wallpaper {
+filter: grayscale(.3) brightness(.4);
+}
