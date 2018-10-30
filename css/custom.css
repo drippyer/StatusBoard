@@ -8,44 +8,41 @@
  * Add any custom CSS below.                         *
  * Changes to this files will be ignored by GIT. *
  *****************************************************/
-
- body {
- 	
- }
+body {}
 
 .region.top.right {
-max-width: 40%;
-max-height: 65%;
+  max-width: 40%;
+  max-height: 65%;
 }
 
 .clock .date {
-color: white;
+  color: white;
 }
 
 .clock .clockSecond {
-color: white;
+  color: white;
 }
 
 .MMM-MyWeather {
-color: white;
+  color: white;
 }
 
 .MMM-MyWeather table td {
-font-size: 20px;
+  font-size: 20px;
 }
 
 .MMM-MyScoreboard {
-color: white;
+  color: white;
 }
 
 .MMM-uber {
-color: white;
+  color: white;
 }
 
 .MMM-lyft {
-color: white;
+  color: white;
 }
 
 .MMM-Wallpaper {
-filter: grayscale(.3) brightness(.4);
+  filter: grayscale(.3) brightness(.4);
 }
